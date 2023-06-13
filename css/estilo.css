@@ -330,7 +330,7 @@ h2{
     }
 
     .header{
-        min-height: 0vh;
+        min-height: 50vh;
     }
 
     .header-content{
